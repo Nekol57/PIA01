@@ -1,0 +1,2 @@
+# Este programa es un archivo sencillo que devuelve "Hola Mundo" en lenguaje de programación python
+print('"Hola Mundo"')
